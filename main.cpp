@@ -28,4 +28,5 @@ int main(){
             cout<<arr[i]<<" , ";
         }
         cout<<"]";
+    return 0;
 }
